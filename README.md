@@ -13,4 +13,4 @@ Este repositório contém um notebook em Python desenvolvido em **Jupyter Notebo
 
 Clique no botão abaixo para abrir o notebook no Google Colab e rodar diretamente na nuvem:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gabriel-T-P/Fashion-MNIST-MLP-Test/blob/main/meu_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gabriel-T-P/Fashion-MNIST-MLP-Test/blob/main/Fashion_MNIST.ipynb)
